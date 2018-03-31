@@ -1,0 +1,22 @@
+{
+  "name": "cookie_manager_js",
+  "version": "1.0.0",
+  "description": "cookie management library in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "kephin <wunshon76325@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kephin/cookie-manager-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kephin/cookie-manager-js/issues"
+  },
+  "homepage": "https://github.com/kephin/cookie-manager-js#readme"
+}
